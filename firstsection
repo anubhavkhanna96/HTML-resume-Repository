@@ -1,6 +1,42 @@
 <!DOCTYPE html>
 <html>
-<body>
-<p><Name:Anubhav khanna</p>
+<head>
+    
+<meta name="viewport"contect ="width=device-width , initial-sacle=1">
+<style>
+*{ box-sizing:border-box;
+}
+ .column{
+float:left;
+width:50%;
+padding:10px;
+height :300px
+}
+.row:after{
+content:"";
+display: table;
+clear :both;
+}   
+</style>
+
+</head>
+<body> 
+<div class="row">
+<div class ="column">
+<pre>
+NAME: ANUBHAV KHANNA
+BRANCH: ECE
+VIT University ,Vellore
+</pre>
+</div>
+<div class ="column">
+<pre>
+B.Tech
+Email ID: anubhav.khanna96@gmail.com
+Contact Number - 9003770634</pre>
+</div>
+</div>
+
+
 </body>
 </html>
