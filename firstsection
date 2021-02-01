@@ -10,13 +10,27 @@
 float:left;
 width:50%;
 padding:10px;
-height :300px
+height :100px
 }
 .row:after{
 content:"";
 display: table;
 clear :both;
 }   
+.boxh{
+  background-color: lightgrey;
+  width: 1200px;
+  padding:.1px;
+}
+.column1{
+    float:left;
+    width:20%;
+    padding:1px;
+    height:100px;
+} 
+  
+  
+}
 </style>
 
 </head>
@@ -36,7 +50,69 @@ Email ID: anubhav.khanna96@gmail.com
 Contact Number - 9003770634</pre>
 </div>
 </div>
-
+<div class="boxh">
+    <center> 
+<pre>
+CAREER OBJECTIVE
+</pre>
+</center>
+</div>
+<p>
+A proactive and fast learning individual seeking an opportunity to work as a Dynamic role individual utilizing analytical, automation and methodical skills to help the company achieve business goals while sticking to vision, mission and values.
+</p>
+<div class="boxh">
+    <center> 
+<pre>
+ACADEMICS
+</pre>
+</center>
+</div>
+<div class="row">
+<div class ="column1">
+<pre>
+<b>Examination</b>
+Graduation
+Intermediate/+2
+Matriculation
+</pre>
+</div>
+<div class ="column1">
+<pre>
+<center><b>University/Board</b>
+VIT
+CBSE
+CBSE
+</pre>
+</center>
+</div>
+<div class ="column1">
+<pre>
+<center><b>Institute</b>
+VIT
+Asha Modern School
+Asha Modern School
+</pre>
+</center>
+</div>
+<div class ="column1">
+<pre>
+<center><b>Passing Year</b>
+2019
+2014
+2012
+</pre>
+</center>
+</div>
+<div class ="column1">
+<pre>
+<center><b>CGPA / %</b>
+8.59/10
+89.2 %
+10/10
+</pre>
+</center>
+</div>
+</div>
 
 </body>
 </html>
