@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
-<meta name="viewport"contect ="width=device-width , initial-sacle=1">
+<meta charset="UTF-8">
+<meta name="description" name="resume">
+<meta name="author" name="Anubhav khanna">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style>
 *{ box-sizing:border-box;
 }
  .column{
 float:left;
-width:50%;
+width:device-width;
 padding:10px;
 height :100px
 }
@@ -19,12 +23,12 @@ clear :both;
 }   
 .boxh{
   background-color: lightgrey;
-  width: 1200px;
+  width:device-width;
   padding:.1px;
 }
 .column1{
     float:left;
-    width:20%;
+    width:device-width;
     padding:1px;
     height:100px;
 } 
@@ -55,9 +59,12 @@ Contact Number - 9003770634</pre>
 </pre>
 </center>
 </div>
-<p>
-A proactive and fast learning individual seeking an opportunity to work as a Dynamic role individual utilizing analytical, automation and methodical skills to help the company achieve business goals while sticking to vision, mission and values.
-</p>
+<pre>
+A proactive and fast learning individual seeking an opportunity to work 
+as a Dynamic role individual utilizing analytical, automation and 
+methodical skills to help the company achieve business goals while 
+sticking to vision, mission and values.
+</pre>
 <div class="boxh">
 <center><pre>ACADEMICS
 </pre>
@@ -96,12 +103,10 @@ Asha Modern School
 2019
 2014
 2012
-</pre>
-</center>
+</pre></center>
 </div>
 <div class ="column1">
-<pre>
-<center><b>CGPA / %</b>
+<pre><center><b>CGPA/%</b>
 8.59/10
 89.2 %
 10/10
