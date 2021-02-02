@@ -13,6 +13,9 @@
 div.c {
   text-align: right;
 }
+div.d {
+  text-align: justify;
+}
 
  .column{
 float:left;
@@ -39,6 +42,7 @@ clear :both;
 </style>
 
 <body style="font-family:Arial"> 
+
 <div class="row">
 <div class ="column">
 <pre >
@@ -62,6 +66,7 @@ Contact Number - 9003770634</pre>
 </center>
 </div>
 <p>
+
 A proactive and fast learning individual seeking an opportunity to work 
 as a Dynamic role individual utilizing analytical, automation and 
 methodical skills to help the company achieve business goals while 
@@ -120,7 +125,7 @@ Asha Modern School
 <center><pre ><b>WORK EXPERIENCE</b>
 </pre></center>
 </div>
-<p >
+<div class="d" >
 <b>Senior Executive- Vodafone Shared Services India                (July 2019- Present)</b>
 Works on analyzing and cleaning the data to understand the customer requirement and
 providing different services like IPVPN and preform the Circuit writing of these different
@@ -138,7 +143,7 @@ Arduino, Raspberry Pi.</li>
 <li><b>Publications:</b> Patient assistance and monitoring system information based
 approach.</li>
 </ul>
-</p>
+</div>
 <div class ="boxh">
 <pre ><center><b>PROJECTS</b></center></pre>
 </div>
@@ -151,7 +156,7 @@ approach.</li>
 navigation, connecting the data with the moisture sensor, and analyzing it.</li></ul>
 <b>Adaptable Movable Network points in a Road network</b>
 <ul><li>Network points change their position according to the density of traffic by analyzing the data.</ul></li>
-
+</div>
 </ul>
 </p>
 </body>
