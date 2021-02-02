@@ -4,15 +4,19 @@
 <meta charset="UTF-8">
 <meta name="description" name="resume">
 <meta name="author" name="Anubhav khanna">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+</head>
 <style>
 *{ box-sizing:border-box;
+   font-family:Arial;
 }
+div.c {
+  text-align: right;
+}
+
  .column{
 float:left;
-width:device-width;
+width:50%;
 padding:10px;
 height :100px
 }
@@ -28,51 +32,49 @@ clear :both;
 }
 .column1{
     float:left;
-    width:device-width;
+    width:20%;
     padding:1px;
     height:100px;
 } 
-  
-  
-}
 </style>
 
-</head>
-<body> 
+<body style="font-family:Arial"> 
 <div class="row">
 <div class ="column">
-<pre>
+<pre >
 NAME: ANUBHAV KHANNA
 BRANCH: ECE
 VIT University ,Vellore
 </pre>
 </div>
 <div class ="column">
-<pre>
+<div class="c">
+<pre >
 B.Tech
 Email ID: anubhav.khanna96@gmail.com
 Contact Number - 9003770634</pre>
 </div>
 </div>
+</div>
 <div class="boxh">
-<center><pre>CAREER OBJECTIVE
+<center><pre > <b>CAREER OBJECTIVE</b>
 </pre>
 </center>
 </div>
-<pre>
+<p>
 A proactive and fast learning individual seeking an opportunity to work 
 as a Dynamic role individual utilizing analytical, automation and 
 methodical skills to help the company achieve business goals while 
 sticking to vision, mission and values.
-</pre>
+</p>
 <div class="boxh">
-<center><pre>ACADEMICS
+<center><pre ><b>ACADEMICS</b>
 </pre>
 </center>
 </div>
 <div class="row">
 <div class ="column1">
-<pre>
+<pre >
 <b>Examination</b>
 Graduation
 Intermediate/+2
@@ -80,7 +82,7 @@ Matriculation
 </pre>
 </div>
 <div class ="column1">
-<pre>
+<pre >
 <center><b>University/Board</b>
 VIT
 CBSE
@@ -89,7 +91,7 @@ CBSE
 </center>
 </div>
 <div class ="column1">
-<pre>
+<pre >
 <center><b>Institute</b>
 VIT
 Asha Modern School
@@ -98,7 +100,7 @@ Asha Modern School
 </center>
 </div>
 <div class ="column1">
-<pre>
+<pre >
 <center><b>Passing Year</b>
 2019
 2014
@@ -106,7 +108,7 @@ Asha Modern School
 </pre></center>
 </div>
 <div class ="column1">
-<pre><center><b>CGPA/%</b>
+<pre ><center><b>CGPA/%</b>
 8.59/10
 89.2 %
 10/10
@@ -115,10 +117,10 @@ Asha Modern School
 </div>
 </div>
 <div class ="boxh">
-<center><pre>WORK EXPERIENCE
+<center><pre ><b>WORK EXPERIENCE</b>
 </pre></center>
 </div>
-<pre>
+<p >
 <b>Senior Executive- Vodafone Shared Services India                (July 2019- Present)</b>
 Works on analyzing and cleaning the data to understand the customer requirement and
 providing different services like IPVPN and preform the Circuit writing of these different
@@ -126,21 +128,21 @@ products while ensuring a quality within a desired period.
 <ul><li>Worked with Products like IPVPN, SDWAN, Secure Internet Site Access, Carrier
 MSP etc.</li>
 <li>Hands on experience with Software’s Amdocs CRM, MORI, PUTTY, LOCM,
-CRAMER, GTOMS.</li></ul></pre>
+CRAMER, GTOMS.</li></ul></p>
 <div class ="boxh">
-<center><pre>TECHNICAL SKILLS</pre></center>
+<center><pre ><b>TECHNICAL SKILLS</b></pre></center>
 </div>
-<pre><ul>
+<p ><ul>
 <li><b>Skills and Technologies:</b> Python, C++, C, My SQL, HTML, Machine Learning,
 Arduino, Raspberry Pi.</li>
 <li><b>Publications:</b> Patient assistance and monitoring system information based
 approach.</li>
 </ul>
-</pre>
+</p>
 <div class ="boxh">
-<pre><center><b>PROJECTS</b></center></pre>
+<pre ><center><b>PROJECTS</b></center></pre>
 </div>
-<pre>
+<p >
 <b>Patient assistance and monitoring system</b>
 <ul><li>Monitoring patient health with different sensors like temperatur,pulse oximeter and heart rate monitoring sensor and display the data on a website.</li>
 </ul>
@@ -151,6 +153,6 @@ navigation, connecting the data with the moisture sensor, and analyzing it.</li>
 <ul><li>Network points change their position according to the density of traffic by analyzing the data.</ul></li>
 
 </ul>
-</pre>
+</p>
 </body>
 </html>
